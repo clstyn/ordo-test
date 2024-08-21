@@ -219,6 +219,10 @@
                 <div class="carousel">
                     <img src="{{ asset('images/event.png') }}" alt="">
                 </div>
+                <div class="arrow__left"> <img src="{{ asset('images/arrow-left.svg') }}" alt="Arrow Carousel Left">
+                </div>
+                <div class="arrow__right"> <img src="{{ asset('images/arrow-right.svg') }}" alt="Arrow Carousel Right">
+                </div>
             </div>
         </div>
 
@@ -268,7 +272,6 @@
                     story of change!
                 </p>
             </div>
-            
         </div>
     </div>
 
